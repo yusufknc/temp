@@ -1,0 +1,29 @@
+PRODUCT OWNER
+SCRUM MASTER
+SCRUM TEAM(3-9)
+--------------------
+PRODUCT OWNER tarafından PRODUCT BACKLOG (iş listesi) hazırlanır
+scrum teamdekiler bu listeye bakarak  ilgili işlerin yapılıp ypılmayacagını, yapılacaksa nekadar zaman alacagına 
+dair görüş belirtir, saat vermez, büyük yada küçük iş şeklinde belirtir.
+
+Bu iş listesindeki  işler ilk toplantıda, küçğk alt işelere ayrılır ve planlama yapılır
+prodcuct owner ve scrum masterin ve ekibin katıldıgı bu topladıya sprint denir,
+bir sonraki sprtinte kadar yapılacak işler belirlenir, 
+bir sonraki sprint toplantısı  30 günden once olması tavsiye edilir. 
+Genelde 1-2 haftakık sprintler yapılmakta günümüzde.
+
+bir scrum board hazırlanır 3 kolonlu :
+
+1-yapılacakişler
+2- devam eden işler
+3- biten işler
+
+
+hergün 15 dk yı gecmeyen ayakta standup toplantılar yapar scrum mater, ekibibyle
+Bu tplantılarda 3 temel soruya cvep aranır her gun
+1-Dün ne yaptın
+2-Bu gün ne yapacaksın
+3-İşin yapmaya bir enhgel var mı?
+
+
+
